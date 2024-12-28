@@ -7,9 +7,9 @@ I am a lifelong learner exploring the vast world of technology, focused on maste
 - Embracing clean, efficient, and maintainable coding practices.  
 
 ### ⚡ My Skills  
-- **Languages:** [List key languages, e.g., Python, JavaScript, etc.]  
-- **Tools:** [List tools/technologies, e.g., Git, Docker, etc.]  
-- **Special Interests:** [e.g., Algorithms, APIs, Automation, etc.]  
+- **Languages:** [Python, JavaScript, bash, etc.]  
+- **Tools:** [Git, Docker, etc.]  
+- **Special Interests:** [Algorithms, APIs, Automation, etc.]  
 
 ### 📫 How to Reach Me  
 - GitHub: [obscura-student](https://github.com/9fdxh42-koq)  
