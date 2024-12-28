@@ -1,8 +1,8 @@
-<h1 align="left">Hey ðŸ‘‹</h1>
+<h1 align="left">Hey‹</h1>
 
 ###
 
-<p align="left">My name is Ãngel, I'm from MÃ¡laga, Spain</p>
+<p align="left">My name is Obscura Student</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">ðŸ‘‹ Hi, Iâ€™m @Angelillo15<br>ðŸ‘€ Iâ€™m a Minecraft paper & velocity plugin development<br>ðŸŒ I'm also interested in full stack web-development<br>ðŸ› ï¸ Join my <a href="discord.angelillo15.es">discord</a> server</p>
+<p align="left">Hi, Iam Obscura Student<br>just a Minecraft paper & velocity plugin development<br> I'm also interested in full stack web-development<br>Join my <a href="discord.angelillo15.es">discord</a> server</p>
 
 ###
 
