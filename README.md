@@ -1,69 +1,70 @@
-<h1 align="left">Hey‹</h1>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-###
+### Hello 🌎, I'm Obscura Student
 
-<p align="left">My name is Obscura Student</p>
+With a passion for learning and exploring the limitless possibilities of technology, I’m on a journey to bridge the gap between ideas and innovation. I am continuously building my skills in frontend and backend development to bring fresh perspectives to modern challenges. Let’s craft a brighter future together! 🚀
 
-###
+  - 🔭 I’m currently working on understanding the core concepts of backend development.
+  - 🌱 I’m currently learning: Junit, Jakarta, Spring Security, and Docker.
+  - 💬 Ask me about **HTML, CSS, Sass, JavaScript, React, PHP, Java, Spring Boot, Scrum, Google Cloud, and CI/CD pipelines.**
+  - ⚡ Fun fact: I’m a lifelong learner who loves solving puzzles.
 
-<h2 align="left">About me</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/obscura_student" target="blank"><i align="center" class="devicon-twitter-original" alt="Obscura Student" height="40" width="60"></i></a>
+<a href="https://www.linkedin.com/in/obscura-student" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Obscura Student" height="40" width="60"></i></a>
+</p>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=9fdxh42-koq&label=Profile%20views&color=0e75b6&style=flat" alt="9fdxh42-koq" /> </p>
 
-<p align="left">Hi, Iam Obscura Student<br>just a Minecraft paper & velocity plugin development<br> I'm also interested in full stack web-development<br>Join my <a href="discord.angelillo15.es">discord</a> server</p>
+------
 
-###
+<h3 align="left">Activity:</h3>
 
-<h2 align="left">Languages and tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Now listening to</h2>
-
-<br clear="both">
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=angelmg5555&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-</div>
-
-<h2 align="left">Profile Stats</h2>
-
-###
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=9fdxh42-koq&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Angelillo15&color=blueviolet" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Angelillo15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angelillo15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/9fdxh42-koq">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=9fdxh42-koq&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="9fdxh42-koq"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=9fdxh42-koq&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="9fdxh42-koq"/>
+  </a>
 </div>
+<p align="center">
+  <a href="https://github.com/9fdxh42-koq">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=9fdxh42-koq&&theme=tokyonight" alt="9fdxh42-koq" />
+  </a>
+</p>
 
-###
+------
+
+<h3 align="left">Languages and Tools:</h3>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,php,cs,nodejs,laravel,spring"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,sass,js,react"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+    </tr>
+</table>
+
+------
+
+[9fdxh42-koq](https://github.com/9fdxh42-koq)
