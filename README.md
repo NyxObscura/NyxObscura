@@ -1,4 +1,3 @@
-```markdown
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
@@ -71,8 +70,8 @@ OPTIMIZE FOR SYSTEM TIME;
 ## 📊 GitHub Analytics
 <div align="center">
   
-  ![Metrics](https://github-readme-stats.vercel.app/api?username=9fdxh42-koq&show_icons=true&theme=radical&include_all_commits=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9fdxh42-koq&layout=compact&theme=radical)
+  ![Metrics](https://github-readme-stats.vercel.app/api?username=NyxObscura&show_icons=true&theme=radical&include_all_commits=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NyxObscura&layout=compact&theme=radical)
 
 </div>
 
@@ -116,7 +115,7 @@ code --install-extension SonarSource.sonarlint-vscode
 ---
 
 ## 💖 Support & Recognition
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/9fdxh42-koq)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/NyxObscura)
 
 ---
 
