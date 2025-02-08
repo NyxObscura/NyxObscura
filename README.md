@@ -42,7 +42,7 @@ With an insatiable thirst for knowledge and innovation, I am **Obscura Student**
 
 <h2 align="center">🌐 Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nodejs,php,java,laravel,spring,mysql,postgresql,docker,kubernetes,git,github,vscode" alt="Skills" width="800">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,php,java,laravel,spring,python,flask,django,fastapi,cpp,cs,dotnet,rust,go,ruby,rails,kotlin,swift,dart,flutter,solidity,bash,powershell,perl,lua,elixir,clojure,haskell,scala,erlang,ocaml,zig,zig,svelte,astro,vue,tailwind,bootstrap,mysql,postgresql,mongodb,redis,sqlite,oracle,firebase,docker,kubernetes,git,github,gitlab,bitbucket,linux,ubuntu,debian,centos,vscode,neovim,androidstudio,figma,postman,graphql,jenkins,heroku,netlify,vercel,aws,gcp,azure,supabase" alt="Skills" width="900">
 </div>
 
 ---
