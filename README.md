@@ -68,7 +68,7 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 <h2 align="center">🌐 Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,arduino,bash,c,clojure,cpp,cs,dart,elixir,erlang,fsharp,go,graphql,haskell,java,julia,kotlin,lua,nodejs,perl,php,powershell,python,r,ruby,rust,swift,solidity,sql,v,vim,wasm,dotnet,electron,flask,fastapi,spring,laravel,rails,react,nextjs,vue,svelte,angular,nuxtjs,gatsby,redux,jest,d3,threejs,express,nginx,jenkins,gulp,gradle,cmake,babel,webpack,bootstrap,tailwind,materialui,wordpress,linux,ubuntu,debian,alpine,aws,gcp,azure,docker,kubernetes,postgres,mysql,mongodb,sqlite,redis,firebase,git,github,gitlab,bitbucket,vscode,visualstudio,atom,eclipse,intellij,pycharm,phpstorm,neovim,figma,blender,unity,ansible,terraform" alt="Skills" width="900">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,arduino,bash,c,clojure,cpp,cs,dart,elixir,go,graphql,haskell,java,julia,kotlin,lua,nodejs,perl,php,powershell,python,r,ruby,rust,swift,solidity,v,vim,wasm,dotnet,electron,flask,fastapi,spring,laravel,rails,react,nextjs,vue,svelte,angular,nuxtjs,gatsby,redux,jest,d3,threejs,express,nginx,jenkins,gulp,gradle,cmake,babel,webpack,bootstrap,tailwind,materialui,wordpress,linux,ubuntu,debian,aws,gcp,azure,docker,kubernetes,postgres,mysql,mongodb,sqlite,redis,firebase,git,github,gitlab,bitbucket,vscode,visualstudio,atom,eclipse,pycharm,phpstorm,neovim,figma,blender,unity,ansible,terraform" alt="Skills" width="900">
 </div>
 
 ---
