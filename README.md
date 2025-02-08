@@ -14,30 +14,55 @@
 
 <h1 align="center">🌟 About Me 🌟</h1>
 
-With an insatiable thirst for knowledge and innovation, I am **Obscura Student**, a **Full-Stack Developer in Progress**. My mission is to **craft elegant solutions** that solve real-world problems while continuously evolving in the fast-paced tech ecosystem. My passion lies in writing **clean, maintainable code** and collaborating with diverse teams to create impactful digital experiences.
+<p align="center">
+  Passionate about technology and innovation, I am <strong>Obscura Student</strong>, an aspiring <strong>Full-Stack Developer</strong> with a relentless drive for growth and excellence.  
+</p>
+
+💡 **Driven by Curiosity & Innovation**  
+I am constantly exploring the ever-evolving tech landscape, seeking to develop **scalable, efficient, and elegant solutions** that address real-world challenges. My approach is rooted in writing **clean, maintainable, and well-documented code**, ensuring both functionality and long-term sustainability.  
+
+🛠️ **Core Expertise & Skills**  
+- **Frontend Development:** Crafting seamless user experiences with **HTML, CSS, JavaScript, React, Next.js, Svelte, Vue.js, TailwindCSS, and Bootstrap**.  
+- **Backend Development:** Building robust server-side applications using **Node.js (Express, Nest.js), Python (Django, FastAPI), PHP (Laravel), Java (Spring Boot), Ruby on Rails, and Go**.  
+- **Database Management:** Proficient in **MySQL, PostgreSQL, MongoDB, Firebase, and Redis** for handling structured and unstructured data.  
+- **DevOps & Cloud Services:** Experienced in **Docker, Kubernetes, AWS, GCP, Azure, and CI/CD pipelines** to streamline deployment and infrastructure management.  
+- **Version Control & Collaboration:** Strong command of **Git, GitHub, GitLab, and Bitbucket** for efficient code management and team collaboration.  
+
+🚀 **My Mission**  
+Beyond just coding, my goal is to **architect scalable and impactful digital solutions** while embracing industry best practices. I thrive in **collaborative environments**, exchanging ideas, and learning from diverse teams to create innovative products that leave a lasting impression.  
+
+📌 **Currently Exploring**  
+I am actively enhancing my expertise in **AI/ML development, blockchain technology, and system architecture** to stay ahead in the fast-paced tech industry.  
 
 ---
 
 <h3 align="center">⚡ Current Focus ⚡</h3>
-<table align="center" style="width: 70%; text-align: left; border-collapse: collapse;">
+<table align="center" style="width: 75%; text-align: left; border-collapse: collapse;">
   <tr>
     <td style="font-weight: bold;">🔭 Currently Working On:</td>
-    <td>Mastering Spring Boot & Docker to build scalable microservices.</td>
+    <td>Building scalable microservices using <strong>Spring Boot, Docker, and Kubernetes</strong>, with a focus on high-performance system design.</td>
   </tr>
   <tr>
     <td style="font-weight: bold;">🌱 Learning:</td>
-    <td>JUnit, Spring Security, Kubernetes, and CI/CD Pipelines.</td>
+    <td>Advanced concepts in <strong>Spring Security, OAuth 2.0, JUnit & Test-Driven Development (TDD), CI/CD automation, and cloud-native applications.</strong></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">🚀 Exploring:</td>
+    <td>Cutting-edge technologies like <strong>AI-driven development, blockchain integration, and edge computing.</strong></td>
   </tr>
   <tr>
     <td style="font-weight: bold;">💬 Ask Me About:</td>
-    <td>Full-Stack Development, DevOps, and Agile Practices.</td>
+    <td>Full-Stack Development, Microservices Architecture, DevOps Best Practices, and Scalable API Design.</td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">🛠️ Tech Stack:</td>
+    <td>Java, Spring Boot, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS, GitHub Actions, Jenkins.</td>
   </tr>
   <tr>
     <td style="font-weight: bold;">⚡ Fun Fact:</td>
-    <td>When I'm not coding, you'll find me solving puzzles or exploring new tech!</td>
+    <td>When I'm not coding, you'll find me exploring new tech trends, solving algorithmic puzzles, or deep-diving into open-source projects!</td>
   </tr>
 </table>
-
 ---
 
 <h2 align="center">🌐 Languages and Tools</h2>
@@ -73,7 +98,7 @@ With an insatiable thirst for knowledge and innovation, I am **Obscura Student**
   <a href="https://www.linkedin.com/in/obscura-student/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:obscura.student@example.com" target="_blank">
+  <a href="mailto:service@obscura.icu" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
