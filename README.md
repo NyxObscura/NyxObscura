@@ -63,6 +63,7 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
     <td>When I'm not coding, you'll find me exploring new tech trends, solving algorithmic puzzles, or deep-diving into open-source projects!</td>
   </tr>
 </table>
+
 ---
 
 <h2 align="center">🌐 Languages and Tools</h2>
