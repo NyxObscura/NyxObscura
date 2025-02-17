@@ -75,8 +75,8 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NyxObscura&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180em">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyxObscura&theme=tokyonight" alt="GitHub Streak" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=NyxObscura&show_icons=true&theme=radical" alt="GitHub Stats" height="180em">
+  <img src="https://streak-stats.demolab.com?user=NyxObscura&theme=radical" alt="GitHub Streak" height="180em">
 </div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyxObscura&bg_color=1A1B27&color=FFA500&line=FFF&point=38BDF8&area=true&hide_border=true" alt="Activity Graph">
