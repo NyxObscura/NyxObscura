@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&duration=2500&pause=500&color=FF1493&center=true&vCenter=true&width=900&height=80&lines=%E2%9C%A8+Welcome+to+My+Cyber+Space!;👨‍💻+I+Am+Obscura+Student;⚡+Coding+is+My+Superpower!;🔥+Let's+Innovate+Together!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=80&lines=%E2%9C%A8+Welcome+to+My+Cyber+Space!;👨‍💻+I+Am+Obscura+Student;⚡+Coding+is+My+Superpower!;🔥+Let's+Innovate+Together!">
 </div>
 
 ---
