@@ -1,8 +1,8 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=2000&pause=300&color=00FF00&center=true&vCenter=true&multiline=true&width=850&height=80&lines=🕶️+Obscura+Student+is+Online...;🔓+Access+Granted;👨‍💻+Full-Stack+Developer;💡+Exploring+The+Digital+Frontier;">
-</div> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&duration=2500&pause=500&color=FF1493&center=true&vCenter=true&width=900&height=80&lines=%E2%9C%A8+Welcome+to+My+Cyber+Space!;👨‍💻+I+Am+Obscura+Student;⚡+Coding+is+My+Superpower!;🔥+Let's+Innovate+Together!">
+</div>
 
 ---
 
