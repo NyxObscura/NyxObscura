@@ -93,7 +93,7 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 <h2 align="center">🔗 Let's Connect</h2>
 <p align="center">
-  <a href="https://twitter.com/obscura_student" target="_blank">
+  <a href="https://twitter.com/obscura_icu" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.linkedin.com/in/obscura-student/" target="_blank">
@@ -102,7 +102,61 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
   <a href="mailto:service@obscura.icu" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+  <a href="https://www.youtube.com/@AhmadFVDS" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://github.com/NyxObscura" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/ahmaaddd._29" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/obscura.icu" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://discord.gg/obscura" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://t.me/DelioGalileio" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.reddit.com/user/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+  </a>
+  <a href="https://www.pinterest.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
+  </a>
+  <a href="https://www.tiktok.com/@" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://www.snapchat.com/add/" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat">
+  </a>
+  <a href="https://www.threads.net/@" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-%23000000.svg?style=for-the-badge&logo=threads&logoColor=white" alt="Threads">
+  </a>
+  <a href="https://www.twitch.tv/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+  </a>
+  <a href="https://www.kick.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kick-%2327DE6D.svg?style=for-the-badge&logo=kick&logoColor=white" alt="Kick">
+  </a>
+  <a href="https://www.soundcloud.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SoundCloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+  </a>
+  <a href="https://open.spotify.com/user/" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://music.apple.com/profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Apple%20Music-%23FA243C.svg?style=for-the-badge&logo=applemusic&logoColor=white" alt="Apple Music">
+  </a>
+  <a href="https://www.bilibili.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili">
+  </a>
+  <a href="https://mastodon.social/" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-%232C8EBB.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
+  </a>
+    </p>
 
 ---
 
