@@ -1,9 +1,5 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=35&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&width=900&height=80&lines=%E2%9C%A8+Welcome+to+My+Cyber+Space!;👨‍💻+I+Am+Obscuraworks+Inc.;⚡+Coding+is+My+Superpower!;🔥+Let's+Innovate+Together!">
-</div>
-
 ---
 
 <div align="center">
@@ -157,24 +153,6 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 ---
 
-<h2 align="center">🎨 Fun Section: Memes & GIFs</h2>
-<div align="center">
-  <img src="https://media.giphy.com/media/2wSgp36v3f7EnDgh3V/giphy.gif" width="400" alt="Coding Meme">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Coding Life">
-</div>
-
----
-
-<h2 align="center">🌟 Sponsors & Supporters</h2>
-<div align="center">
-  <p>Special thanks to all the amazing people who inspire and support my journey!</p>
-  <a href="https://buymeacoffee.com/obscurastudent" target="_blank">
-    <img src="https://img.shields.io/badge/Support-Me-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee">
-  </a>
-</div>
-
----
-
 <h2 align="center">💼 Open to Collaboration</h2>
 <p align="center">
   If you're as passionate about technology as I am, let's connect and collaborate on projects that make an impact! Feel free to drop me a message on any platform.
@@ -183,6 +161,3 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 ---
 
 <h2 align="center">🌌 The End, for Now...</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif" width="500" alt="The End">
-</p>
