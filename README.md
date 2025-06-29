@@ -11,7 +11,7 @@
 <h1 align="center">🌟 About Me 🌟</h1>
 
 <p align="center">
-  Passionate about technology and innovation, I am <strong>Obscura Student</strong>, an aspiring <strong>Full-Stack Developer</strong> with a relentless drive for growth and excellence.  
+  Passionate about technology and innovation, I am <strong>NyxObscura</strong>, an aspiring <strong>Full-Stack Developer</strong> with a relentless drive for growth and excellence.  
 </p>
 
 💡 **Driven by Curiosity & Innovation**  
@@ -32,36 +32,6 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 ---
 
-<h3 align="center">⚡ Current Focus ⚡</h3>
-<table align="center" style="width: 75%; text-align: left; border-collapse: collapse;">
-  <tr>
-    <td style="font-weight: bold;">🔭 Currently Working On:</td>
-    <td>Building scalable microservices using <strong>Spring Boot, Docker, and Kubernetes</strong>, with a focus on high-performance system design.</td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">🌱 Learning:</td>
-    <td>Advanced concepts in <strong>Spring Security, OAuth 2.0, JUnit & Test-Driven Development (TDD), CI/CD automation, and cloud-native applications.</strong></td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">🚀 Exploring:</td>
-    <td>Cutting-edge technologies like <strong>AI-driven development, blockchain integration, and edge computing.</strong></td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">💬 Ask Me About:</td>
-    <td>Full-Stack Development, Microservices Architecture, DevOps Best Practices, and Scalable API Design.</td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">🛠️ Tech Stack:</td>
-    <td>Java, Spring Boot, React, Node.js, PostgreSQL, Docker, Kubernetes, AWS, GitHub Actions, Jenkins.</td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">⚡ Fun Fact:</td>
-    <td>When I'm not coding, you'll find me exploring new tech trends, solving algorithmic puzzles, or deep-diving into open-source projects!</td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">🌐 Languages and Tools</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,arduino,bash,c,cpp,cs,elixir,go,graphql,java,kotlin,lua,nodejs,perl,php,powershell,python,r,ruby,rust,swift,v,vim,wasm,laravel,react,nextjs,vue,threejs,cmake,tailwind,wordpress,linux,aws,gcp,azure,docker,kubernetes,postgres,mysql,mongodb,sqlite,redis,firebase,git,github,gitlab,bitbucket,vscode,visualstudio" alt="Skills" width="900">
@@ -72,7 +42,7 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyxObscura&show_icons=true&theme=radical" alt="GitHub Stats" height="180em">
-  <img src="https://streak-stats.demolab.com?user=NyxObscura&theme=radical" alt="GitHub Streak" height="180em">
+  <img src="https://streak-stats.demolab.com?user=NyxObscura&theme=radical" alt="GitHub Streak" height="18em">
 </div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyxObscura&bg_color=1A1B27&color=FFA500&line=FFF&point=38BDF8&area=true&hide_border=true" alt="Activity Graph">
@@ -118,38 +88,6 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
     </p>
-
----
-
-<h2 align="center">📚 Featured Projects</h2>
-<div align="center">
-  <table style="width: 100%; text-align: left; border-collapse: collapse;">
-    <tr>
-      <th style="font-weight: bold;">Project</th>
-      <th style="font-weight: bold;">Description</th>
-      <th style="font-weight: bold;">Tech Stack</th>
-      <th style="font-weight: bold;">Demo</th>
-    </tr>
-    <tr>
-      <td>🌟 <strong>Project Alpha</strong></td>
-      <td>A revolutionary e-commerce platform for sustainable shopping.</td>
-      <td>React, Node.js, MongoDB</td>
-      <td><a href="https://project-alpha.example.com" target="_blank">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td>💼 <strong>Taskify Pro</strong></td>
-      <td>An intuitive task management system for professionals.</td>
-      <td>Java, Spring Boot, PostgreSQL</td>
-      <td><a href="https://taskify-pro.example.com" target="_blank">Live Demo</a></td>
-    </tr>
-    <tr>
-      <td>🌐 <strong>DevHub</strong></td>
-      <td>A social networking site for developers to collaborate.</td>
-      <td>Vue, Firebase</td>
-      <td><a href="https://devhub.example.com" target="_blank">Live Demo</a></td>
-    </tr>
-  </table>
-</div>
 
 ---
 
