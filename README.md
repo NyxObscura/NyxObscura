@@ -45,7 +45,13 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
   <img src="https://streak-stats.demolab.com?user=NyxObscura&theme=radical" alt="GitHub Streak" height="18em">
 </div>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyxObscura&bg_color=1A1B27&color=FFA500&line=FFF&point=38BDF8&area=true&hide_border=true" alt="Activity Graph">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyxObscura&theme=tokyonight" width="90%">
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NyxObscura&theme=tokyonight" width="45%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NyxObscura&theme=tokyonight" width="45%">
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NyxObscura&theme=tokyonight" width="45%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NyxObscura&theme=tokyonight&utcOffset=8" width="45%">
 </p>
 
 ---
