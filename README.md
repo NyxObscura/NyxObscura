@@ -34,7 +34,7 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 <h2 align="center">🌐 Languages and Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,bash,c,cpp,cs,elixir,go,graphql,java,kotlin,lua,nodejs,perl,php,powershell,python,r,ruby,rust,laravel,react,nextjs,threejs,cmake,tailwind,linux,azure,docker,kubernetes,postgres,mysql,mongodb,redis,firebase,git,github,gitlab,bitbucket,vscode,visualstudio,cloudflare" alt="Skills" width="900">
+  <img src="https://skillicons.dev/icons?i=sass,c,cpp,cs,elixir,go,java,kotlin,php,python,rust,laravel,react,nextjs,threejs,cmake,linux,cloudflare" alt="Skills" width="900">
 </div>
 
 ---
