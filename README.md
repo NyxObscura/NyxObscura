@@ -32,7 +32,7 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 ---
 
-<h2 align="center">🌐 Languages and Tools</h2>
+<h2 align="center">🌐 Languages</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=sass,c,cpp,cs,elixir,go,java,kotlin,php,python,rust,laravel,react,nextjs,threejs,cmake,linux,cloudflare" alt="Skills" width="900">
 </div>
