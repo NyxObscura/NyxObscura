@@ -8,18 +8,15 @@
 
 ---
 
-<h2 align="center">Lang</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=sass,c,cpp,cs,elixir,go,java,kotlin,php,python,rust,laravel,react,nextjs,threejs,cmake,linux,cloudflare" alt="Skills" width="900">
 </div>
 
----
-
-<h2 align="center">Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyxObscura&show_icons=true&theme=radical" alt="GitHub Stats" height="180em">
   <img src="https://streak-stats.demolab.com?user=NyxObscura&theme=radical" alt="GitHub Streak" height="18em">
 </div>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyxObscura&theme=tokyonight" width="90%">
   <br>
@@ -30,16 +27,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NyxObscura&theme=tokyonight&utcOffset=8" width="45%">
 </p>
 
----
-
-<h2 align="center">Quote of the Day</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </div>
 
----
-
-<h2 align="center">Let's Connect</h2>
 <p align="center">
   <a href="https://twitter.com/ZafieroAnyiera" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
@@ -70,13 +61,6 @@
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
   </a>
     </p>
-
----
-
-<h2 align="center">Open to Collaboration</h2>
-<p align="center">
-  If you're as passionate about technology as I am, let's connect and collaborate on projects that make an impact! Feel free to drop me a message on any platform.
-</p>
 
 ---
 
