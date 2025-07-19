@@ -8,38 +8,14 @@
 
 ---
 
-<h1 align="center">🌟 About Me 🌟</h1>
-
-<p align="center">
-  Passionate about technology and innovation, I am <strong>NyxObscura</strong>, an aspiring <strong>Full-Stack Developer</strong> with a relentless drive for growth and excellence.  
-</p>
-
-💡 **Driven by Curiosity & Innovation**  
-I am constantly exploring the ever-evolving tech landscape, seeking to develop **scalable, efficient, and elegant solutions** that address real-world challenges. My approach is rooted in writing **clean, maintainable, and well-documented code**, ensuring both functionality and long-term sustainability.  
-
-🛠️ **Core Expertise & Skills**  
-- **Frontend Development:** Crafting seamless user experiences with **HTML, CSS, JavaScript, React, Next.js, Svelte, Vue.js, TailwindCSS, and Bootstrap**.  
-- **Backend Development:** Building robust server-side applications using **Node.js (Express, Nest.js), Python (Django, FastAPI), PHP (Laravel), Java (Spring Boot), Ruby on Rails, and Go**.  
-- **Database Management:** Proficient in **MySQL, PostgreSQL, MongoDB, Firebase, and Redis** for handling structured and unstructured data.  
-- **DevOps & Cloud Services:** Experienced in **Docker, Kubernetes, AWS, GCP, Azure, and CI/CD pipelines** to streamline deployment and infrastructure management.  
-- **Version Control & Collaboration:** Strong command of **Git, GitHub, GitLab, and Bitbucket** for efficient code management and team collaboration.  
-
-🚀 **My Mission**  
-Beyond just coding, my goal is to **architect scalable and impactful digital solutions** while embracing industry best practices. I thrive in **collaborative environments**, exchanging ideas, and learning from diverse teams to create innovative products that leave a lasting impression.  
-
-📌 **Currently Exploring**  
-I am actively enhancing my expertise in **AI/ML development, blockchain technology, and system architecture** to stay ahead in the fast-paced tech industry.  
-
----
-
-<h2 align="center">🌐 Languages</h2>
+<h2 align="center">Lang</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=sass,c,cpp,cs,elixir,go,java,kotlin,php,python,rust,laravel,react,nextjs,threejs,cmake,linux,cloudflare" alt="Skills" width="900">
 </div>
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyxObscura&show_icons=true&theme=radical" alt="GitHub Stats" height="180em">
   <img src="https://streak-stats.demolab.com?user=NyxObscura&theme=radical" alt="GitHub Streak" height="18em">
@@ -56,14 +32,14 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 ---
 
-<h2 align="center">✨ Quote of the Day</h2>
+<h2 align="center">Quote of the Day</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </div>
 
 ---
 
-<h2 align="center">🔗 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 <p align="center">
   <a href="https://twitter.com/ZafieroAnyiera" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
@@ -97,11 +73,11 @@ I am actively enhancing my expertise in **AI/ML development, blockchain technolo
 
 ---
 
-<h2 align="center">💼 Open to Collaboration</h2>
+<h2 align="center">Open to Collaboration</h2>
 <p align="center">
   If you're as passionate about technology as I am, let's connect and collaborate on projects that make an impact! Feel free to drop me a message on any platform.
 </p>
 
 ---
 
-<h2 align="center">🌌 The End, for Now...</h2>
+<h2 align="center">The End, for Now...</h2>
