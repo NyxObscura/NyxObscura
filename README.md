@@ -1,21 +1,14 @@
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="800">
-</div>
-
----
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=sass,c,cpp,cs,elixir,go,java,kotlin,php,python,rust,laravel,react,nextjs,threejs,cmake,linux,cloudflare" alt="Skills" width="900">
 </div>
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyxObscura&show_icons=true&theme=radical" alt="GitHub Stats" height="180em">
-  <img src="https://streak-stats.demolab.com?user=NyxObscura&theme=radical" alt="GitHub Streak" height="18em">
-</div>
+  </div>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NyxObscura&theme=tokyonight" width="90%">
