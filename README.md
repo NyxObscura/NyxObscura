@@ -24,6 +24,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
 </div>
 
+---
+
 <p align="center">
   <a href="https://twitter.com/ZafieroAnyiera" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
